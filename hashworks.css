@@ -1,0 +1,118 @@
+.row::after 
+{
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}
+
+.row
+{
+	margin-top: 100px;
+}
+.col-4
+{
+    background-image: url(image/bg2.png);
+    height: 311px;
+    width: 457px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-left: 400px;  
+
+}
+
+.in-side
+{
+	padding:5px; 
+}
+.para-1
+{
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  margin-left: 25px;
+  font-size: 14px;
+  margin-top: 10px;
+  display: flex;
+}
+
+.para-2
+{
+	color: white;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 25px;
+    font-size: 25px;
+    margin-top: 56px;   
+    display: flex; 
+}
+
+.para-3
+{
+	color: white;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 25px;
+    font-size: 13px;
+    display: flex;
+}
+
+.button-1
+{
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    padding: 12px;
+    margin-left: 24px;
+    border-radius: 8px;
+    width: 140px;
+    height: 46px;
+    background-color: white;
+    margin-top: 25px;
+    font-weight: lighter;
+    cursor: pointer;
+    overflow: hidden;
+    display: flex;
+    border-width: 0px;
+}
+
+.col-4:hover 
+{
+    transform: scale(1.01);
+    cursor: pointer;
+}
+
+.button-1 span{
+	-webkit-transform: translateX(-120px);
+    transform: translateX(-120px);
+    -webkit-transition: -webkit-transform .2s cubic-bezier(.785,.135,.15,.86);
+    transition: -webkit-transform .2s cubic-bezier(.785,.135,.15,.86);
+    transition: transform .2s cubic-bezier(.785,.135,.15,.86);
+    transition: transform .2s cubic-bezier(.785,.135,.15,.86),-webkit-transform .2s cubic-bezier(.785,.135,.15,.86);
+    -ms-flex-preferred-size: 160px;
+    flex-basis: 160px;
+    min-width: 115px;
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-block;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+}
+.button-1:hover span
+{
+    transform: translateX(0);
+}
