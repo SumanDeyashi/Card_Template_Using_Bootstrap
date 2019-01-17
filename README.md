@@ -8,8 +8,9 @@ Technology Used: HTML/HTML5, CSS/CSS3, Bootstrap 4.
 
 Duration: Nov, 2018 to Dec, 2018.
 
+URL: https://www.hashworks.co/#/bootcamp
+
 # Procedure:
-This card template taken from https://www.hashworks.co/#/bootcamp as a PSD. 
 
 First created one folder(Card_Template_Using_Bootstrap), Inside that folder created two file hashworks.html and hashworks.css. Here, bg2.png for card background and logo.png for webpage title logo and arrow.png for button hover effect, last with the help of index.css you can design your HTML tags as per your requirement.
 
