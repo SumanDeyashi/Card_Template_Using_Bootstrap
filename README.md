@@ -2,13 +2,13 @@
 # Description:
 Company(Hashworks IT Services Private Limited)_Internship_Project.
 
-Download all files(arrow.png, bg2.png, logo.png, hashworks.html, hashworks.css) put it in one folder. Inside that folder create another folder with the name of image and inside image folder put that three images.  After that run hashworks.html file on your favorite browser.
+Download all files(arrow.png, bg2.png, logo.png, index.html, style.css) put it in one folder. After that run index.html file on your favorite browser.
 
 Technology Used: HTML/HTML5, CSS/CSS3, Bootstrap 4.
 
 Duration: Nov, 2018 to Dec, 2018.
 
-URL: https://www.hashworks.co/#/bootcamp
+URL: https://sumandeyashi.github.io/Card_Template_Using_Bootstrap/
 
 # Procedure:
 
