@@ -4,7 +4,7 @@ Company(Hashworks IT Services Private Limited)_Internship_Project.
 
 Download all files(arrow.png, bg2.png, logo.png, index.html, style.css) put it in one folder. After that run index.html file on your favorite browser.
 
-Technology Used: HTML/HTML5, CSS/CSS3, Bootstrap 4.
+Technology Used: HTML/HTML5, CSS/CSS3, Bootstrap 3.
 
 Duration: Nov, 2018 to Dec, 2018.
 
